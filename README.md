@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sen-18/Sen-18/main/assets/banner.gif" width="100%" alt="Sen Banner">
+  
+![Sen Banner](./assets/banner.gif)
 
 <br>
 
