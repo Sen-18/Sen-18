@@ -22,8 +22,10 @@ I'm **Sen**, an IT student learning programming, Linux, and software development
 
 I enjoy exploring new technologies, building projects, solving problems, and learning from the things I create.
 
-```text
-Student → Learn → Build → Break → Fix → Improve → Repeat
+**Student → Learn → Build → Break → Fix → Improve → Repeat**
+
+---
+
 ## 🚀 Currently Learning
 
 - ☕ **Java** — Programming & Object-Oriented Programming
@@ -62,6 +64,31 @@ I use AI tools to help me **learn, debug, explore ideas, and improve my projects
 
 ---
 
+## 🚀 Featured Projects
+
+### 📱 Android & Recovery
+
+| Project | Description |
+|---|---|
+| [**Infinix Note 30 VIP VBMeta Disable**](https://github.com/Sen-18/Infinix-Note-30-VIP-VBMeta-Disable) | Android-related tools and configuration |
+| [**Custom Recovery Tree — Infinix X6710**](https://github.com/Sen-18/custom_recovery_tree_infinix_X6710) | Custom recovery device tree |
+| [**Android Device — Infinix X6710**](https://github.com/Sen-18/android_device_infinix_X6710-OFRP-fox_12.1) | Android recovery/device development |
+
+### 🔧 Build Projects
+
+| Project | Description |
+|---|---|
+| [**Action TWRP Builder**](https://github.com/Sen-18/Action-TWRP-Builder) | GitHub Actions based recovery building |
+| [**OrangeFox Recovery Builder**](https://github.com/Sen-18/OrangeFox-Recovery-Builder-2024) | Recovery build workflow |
+
+---
+
+## 📚 Learning Journey
+
+**Programming → Java → OOP → Linux → Git & GitHub → AI-assisted Development**
+
+---
+
 ## 🎯 Goals
 
 - 💻 Become a better programmer
@@ -78,13 +105,16 @@ I use AI tools to help me **learn, debug, explore ideas, and improve my projects
 > **You don't have to know everything.  
 > You just have to keep learning.**
 
-```text
-Learn → Practice → Build → Fail → Fix → Grow
+**Learn → Practice → Build → Fail → Fix → Grow**
+
+---
 
 <div align="center">
 
-👋 Thanks for visiting!
-Still learning. Still building. :>
+### 👋 Thanks for visiting!
+
+**Still learning. Still building. :>**
+
 ⭐ Feel free to explore my repositories.
+
 </div>
-```
